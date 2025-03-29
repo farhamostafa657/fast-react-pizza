@@ -1,3 +1,17 @@
+# Fast-react-pizza
+this is a simple project to order pizza and see pizzas menue
+
+#Technologies
+react router dom
+  - using react router dom to routing between pages
+  - npm i react-router-dom  (link for install lib.)
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
