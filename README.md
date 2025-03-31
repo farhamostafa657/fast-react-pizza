@@ -9,6 +9,7 @@ react router dom
 - using react router dom to routing between pages
 - npm i react-router-dom (link for install lib.)
 - fetching the data with the reactrouter"Loaders"
+- react router actions
 
 # React + Vite
 
