@@ -4,12 +4,17 @@ this is a simple project to order pizza and see pizzas menue
 
 ## Technologies
 
-react router dom
+###react router dom
 
 - using react router dom to routing between pages
 - npm i react-router-dom (link for install lib.)
 - fetching the data with the reactrouter"Loaders"
 - react router actions
+
+###tailwind css
+
+- using this libarary to style my web
+- https://v3.tailwindcss.com/docs/guides/vite (link to install the libarary)
 
 # React + Vite
 
