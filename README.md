@@ -16,6 +16,10 @@ this is a simple project to order pizza and see pizzas menue
 - using this libarary to style my web
 - https://v3.tailwindcss.com/docs/guides/vite (link to install the libarary)
 
+### Redux toolkit
+
+- using this libarary to manage all global state in the website
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
