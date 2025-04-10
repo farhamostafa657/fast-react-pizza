@@ -19,6 +19,7 @@ this is a simple project to order pizza and see pizzas menue
 ### Redux toolkit
 
 - using this libarary to manage all global state in the website
+- using reduxthunks with createAsynkthunk to integrating with side effects functions (async func.)
 
 # React + Vite
 
